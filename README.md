@@ -19,3 +19,9 @@ Tag <h1></h1>:
 que define o texto como um título
 principal da página.
 
+<meta>: Fornece matadados como a codificação
+de caracteres e configurações de viewport.
+
+<title>: Define o título do cocumento, que é
+exibidona barra de titulo do navegador.
+
