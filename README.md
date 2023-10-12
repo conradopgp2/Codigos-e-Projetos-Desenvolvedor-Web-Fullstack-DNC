@@ -25,3 +25,11 @@ de caracteres e configurações de viewport.
 <title>: Define o título do cocumento, que é
 exibidona barra de titulo do navegador.
 
+Tags CSS:
+*: Selecione todos os elementos da página.
+
+backgroud-color: Define a cor de fundo do elemento.
+
+font-family: Define a fonte usada para o elemento.
+
+margin: Define as margens externas do elemento.
