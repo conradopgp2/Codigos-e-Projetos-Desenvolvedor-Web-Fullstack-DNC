@@ -9,6 +9,9 @@ tudo que está no head carrega primeiro, ela contém as informações gerais da 
 Segunda parte é o <body> = corpo, o corpo é o que o seu usuário vai ter acesso,
 então sempre que eu criarmos uma tag em HTML precisamos ter tanto o <head> quanto o <body>
 
+Tag img src="" alt="" onde (src="" = colocasse o local que se encontra a imagem
+e alt="" = uma mensagem caso não tenha nenhuma local apontado com a imagem)
+
 Tag <p></p>:
 A tag <p></p> é usada para indicar um parágrafo de texto.
 É uma tag de marcação de texto que define um bloco
@@ -33,3 +36,8 @@ backgroud-color: Define a cor de fundo do elemento.
 font-family: Define a fonte usada para o elemento.
 
 margin: Define as margens externas do elemento.
+
+Tags JavaScript
+var NOME = window.document.getElementById("id"):
+A variável NOME recebe o elemento HTML com o ID "id".
+
