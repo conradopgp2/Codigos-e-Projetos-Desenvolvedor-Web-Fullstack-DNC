@@ -28,6 +28,8 @@ de caracteres e configurações de viewport.
 <title>: Define o título do cocumento, que é
 exibidona barra de titulo do navegador.
 
+<a>: Cria um hyperlink para outra página da web ou recurso.
+
 Tags CSS:
 *: Selecione todos os elementos da página.
 
@@ -37,8 +39,8 @@ font-family: Define a fonte usada para o elemento.
 
 margin: Define as margens externas do elemento.
 
+grid-auto-flow:Define como os elementos são organizados em um grid.
+
 Tags JavaScript
 var NOME = window.document.getElementById("id"):
 A variável NOME recebe o elemento HTML com o ID "id".
-
-<a>: Cria um hyperlink para outra página da web ou recurso.
