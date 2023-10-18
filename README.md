@@ -41,6 +41,8 @@ margin: Define as margens externas do elemento.
 
 grid-auto-flow:Define como os elementos são organizados em um grid.
 
+columns: Define o numero de colunas no grid.
+
 Tags JavaScript
 var NOME = window.document.getElementById("id"):
 A variável NOME recebe o elemento HTML com o ID "id".
