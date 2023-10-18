@@ -41,3 +41,4 @@ Tags JavaScript
 var NOME = window.document.getElementById("id"):
 A variável NOME recebe o elemento HTML com o ID "id".
 
+<a>: Cria um hyperlink para outra página da web ou recurso.
