@@ -10,6 +10,7 @@
     <title>Escola DNC</title>
 </head>
 <body>
+    <!-- MENU SUPERIOR -->
     <div id="menusuperior">
         <a href="https://www.escoladnc.com.br/" ><img src="Imagens/Logo.svg" id="Logo" alt="ERRO"></a>
         <h1 id="titulo-menusuperior">Dê os primeiros passos da<br>
@@ -18,15 +19,45 @@
             Tecnologia da DNC School e aprenda os principais<br>
             fundamentos para construir experiências efetivas.</p>
     </div>
+    <!-- MENU NFORMACIONAL -->
     <div id="menuinformacional">
-        <img src="Icones/certificado.svg" alt="">
-        <p>Certificado de conclusão</p>
-        <img src="Icones/relogio.svg" alt="">
-        <p>4 horas de conteúdo</p>
-        <img src="Icones/camera.svg" alt="">
-        <p>Aulas online gravadas</p>
+        <p class="textoinformativo"> <img src="Icones/certificado.svg" class="Icone" id="certificado" alt=""> Certificado de conclusão</p>
+        <p class="textoinformativo"> <img src="Icones/relogio.svg" class="Icone" id="relogio" alt=""> 4 horas de conteúdo</p>
+        <p class="textoinformativo"> <img src="Icones/camera.svg" class="Icone" id="camera" alt=""> Aulas online gravadas</p>
+    </div>
+    
+    <!-- SEÇÃO VIDEO-->
+    <div id="secaovideo">
+        <iframe id="video" width="502" height="283" src="https://www.youtube.com/embed/ITxGkd9h4n4" title="DNC - A escola inovadora que forma profissionais de alta perfomance" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+        <div>
+            <h1 id="titulovideo">prenda com especialistas e<br>
+                comece seu primeiro projeto<br><br>
+            </h1>
+            <p id="textovideo">Conheça o processo de desenvolvimento e entenda como utilizar<br>
+                os principais métodos e ferramentas da área para resolver<br>
+                problemas complexos.<br><br>
+    
+                Conquiste seu certificado e desenvolva um projeto prático para<br>
+                aplicar seus conhecimentos.
+            </p>
+        </div>
     </div>
 
+    <!-- CARROSSEL -->
+    <div id="carrossel">
+        <h1 id="titulo-carrossel">
+            Mais de 500 alunos já iniciaram seus estudos</h1>
+            <!--DIVISÃO DOS CARDS -->
+            <div id="div-cards">
+                <img id="seta-esquerda" class="seta" src="Icones/seta-esquerda.svg" alt="">
+                <img id="Leonardo" src="cards/Leonardo.svg" alt="">
+                <img id="Samantha" src="cards/Samantha.svg" alt="">
+                <img id="Bruna" src="cards/Bruna.svg" alt="">                
+                <img id="seta-direita" class="seta" src="Icones/seta-direita.svg" alt="">
+            </div>
+            
+
+    </div>
     <script src="index.js"></script>
 </body>
 </html>

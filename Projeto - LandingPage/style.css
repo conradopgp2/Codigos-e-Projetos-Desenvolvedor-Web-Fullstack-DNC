@@ -31,3 +31,61 @@
     grid-auto-flow: column;
     columns: auto;
 }
+
+.Icone{
+   margin: 50px 0px 50px 100px;
+   padding: 15px;
+}
+
+#secaovideo{
+    display: grid;
+    grid-auto-flow: column;
+}
+
+.textoinformativo{
+    display: flex;
+    align-items: center;
+    columns: auto;
+}
+
+#titulovideo{
+    color: #247BA0;
+    margin-top: 50px;
+}
+
+#video{
+    margin: 50px 25px 50px 100px;
+}
+
+#carrossel{
+    background-color: #247BA0;
+    padding: 50px;
+}
+
+#titulo-carrossel{
+    color: #EAECE5;
+    text-align: center;
+    font-size: 25px;
+}
+
+#div-cards{
+    margin-top: 25px;
+    display: grid;
+    grid-auto-flow: column;
+}
+
+.card{
+    margin-left: 50px;
+}
+
+#seta-esquerda{
+    display: none;
+}
+
+#Bruna{
+    display: none;
+}
+
+.seta{
+    margin-top: 35%;
+}
