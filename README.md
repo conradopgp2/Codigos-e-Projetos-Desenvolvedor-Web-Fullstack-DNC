@@ -30,6 +30,8 @@ exibidona barra de titulo do navegador.
 
 <a>: Cria um hyperlink para outra página da web ou recurso.
 
+onclick="RolarParaEsquerda()" = atribuir uma funcionalidade e ação ao passao o mouse por cima de alguma seta e clica-la.
+
 Tags CSS:
 *: Selecione todos os elementos da página.
 
@@ -42,6 +44,13 @@ margin: Define as margens externas do elemento.
 grid-auto-flow:Define como os elementos são organizados em um grid.
 
 columns: Define o numero de colunas no grid.
+
+cursor: pointer; = transforma o cursor do mouse em uma mãozinha com indicador apontando
+
+.seta:hover{
+    transform:translateY(-7px);
+    transition-duration: 0.5s;
+} = faz com que a seta ganhe animação, se desloque para algum lado e demore algum tempo para ser animada
 
 Tags JavaScript
 var NOME = window.document.getElementById("id"):
