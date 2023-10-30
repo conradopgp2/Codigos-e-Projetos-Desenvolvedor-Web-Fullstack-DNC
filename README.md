@@ -1,4 +1,4 @@
-# Codigos-e-Projetos-Desenvolvedor-Web-Fullstack-DNC-12-Certificacoes
+# Codigos-e-Projetos-Desenvolvedor-Web-Fullstack
 
 ## Informações e lembretes do que cada código 
 representa em sua respectiva linguagem de programação!
